@@ -28,3 +28,4 @@ def can_remove_ones(matrix):
                 return False
 
     return True
+matrix =[[0,1,0]]
